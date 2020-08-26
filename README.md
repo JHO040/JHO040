@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-• 😄 I am a Final Year Undergraduate from Nanyang Technological University (NTU)
-• 🔭 Bachelors of Science, Double Major in Mathematical Sciences and Economics with a specialisation in Business Analytics
-• 🌱 I’m currently learning basic Machine Learning techniques and SQL
-• 🤔 I’m currently starting on my Final Year Project (Deep Learning in Survival Analysis)
-• 📫 How to reach me: [LinkedIn - @Jeff_Ho](https://www.linkedin.com/in/jeff-ho-19282b17b/)
-• ⚡ Fun fact: ...
+- 😄 I am a Final Year Undergraduate from Nanyang Technological University (NTU)
+- 🔭 Bachelors of Science, Double Major in Mathematical Sciences and Economics with a specialisation in Business Analytics
+- 🌱 I’m currently learning basic Machine Learning techniques and SQL
+- 🤔 I’m currently starting on my Final Year Project (Deep Learning in Survival Analysis)
+- 📫 How to reach me: [LinkedIn - @Jeff_Ho](https://www.linkedin.com/in/jeff-ho-19282b17b/)
+- ⚡ Fun fact: ...
 
 
 
@@ -17,7 +17,6 @@
 
 • Elementary Proficiency
 <img align="center" alt="SQL" width="38px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />
-
 
 </br>
 
