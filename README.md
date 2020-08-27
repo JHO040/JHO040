@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jeff! 👋
 
 - 😄 I am a Final Year Undergraduate from Nanyang Technological University (NTU)
 - 🔭 Bachelors of Science, Double Major in Mathematical Sciences and Economics with a specialisation in Business Analytics
 - 🌱 I’m currently learning basic Machine Learning techniques and SQL
 - 🤔 I’m currently starting on my Final Year Project (Deep Learning in Survival Analysis)
 - 📫 How to reach me: [LinkedIn - @Jeff_Ho](https://www.linkedin.com/in/jeff-ho-19282b17b/)
-- ⚡ Fun fact: ...
 
 
 
@@ -21,6 +20,8 @@
 </br>
 
 ### Github Stats:
+
+[![HitCount](http://hits.dwyl.com/{JHO040}/{project}.svg)](http://hits.dwyl.com/{JHO040}/{project})
 
 <img src='https://github-readme-stats.vercel.app/api?username=JHO040&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
